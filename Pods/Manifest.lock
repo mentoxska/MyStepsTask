@@ -1,0 +1,24 @@
+PODS:
+  - Charts (4.0.0):
+    - Charts/Core (= 4.0.0)
+  - Charts/Core (4.0.0)
+
+DEPENDENCIES:
+  - Charts (from `https://github.com/danielgindi/Charts.git`, tag `v4.0.0`)
+
+EXTERNAL SOURCES:
+  Charts:
+    :git: https://github.com/danielgindi/Charts.git
+    :tag: v4.0.0
+
+CHECKOUT OPTIONS:
+  Charts:
+    :git: https://github.com/danielgindi/Charts.git
+    :tag: v4.0.0
+
+SPEC CHECKSUMS:
+  Charts: 22f3a1f5993f0769aa5ad380ccb242a1500d6b95
+
+PODFILE CHECKSUM: a565c6cf5ccd0d02e0cefc6f73b99f750ee37be2
+
+COCOAPODS: 1.10.1
